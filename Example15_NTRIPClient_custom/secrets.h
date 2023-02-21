@@ -8,7 +8,7 @@ char* password =  "LoneDigger";
 const char casterHost[] = "caster.centipede.fr"; 
 const uint16_t casterPort = 2101;
 const char casterUser[] = "didier.donsez@gmail.com"; //User must provide their own email address to use RTK2Go
-const char casterUserPW[] = "centipde";
+const char casterUserPW[] = "centipede";
 const char mountPoint[] = "CRO2"; //The mount point you want to get data from
 
 #else
