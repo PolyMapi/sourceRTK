@@ -21,3 +21,15 @@ Displays the position and the accuracy of the position of the F9P.
 Connects to the Centipede network and queries the **CRO2** base for correction data.
 
 *`secrets.h` must be modified if user wishes to connect to a new WIFI network*
+
+## philippe66
+
+A short program by a user of the Centipede RTK telegram channel. It helped us understand the ESP32's bluetooth fonctionalities a bit better.
+
+## testBT
+
+Script used to test out a few Bluetooth fonctionalities.
+
+## SparkFun_RTK_Firmware
+
+This folder is based on [SparkFun's rover firmware repository](https://github.com/sparkfun/SparkFun_RTK_Firmware). We modified it a bit as there seemed to be compilation errors. If we had more time, we would have worked more on this code until it works with our project.
